@@ -1,0 +1,17 @@
+# IDE Specific
+.idea/
+venv/
+
+# Python
+__pycache__/
+
+# Other temporary files
+temp.json
+temp.py
+template.xml
+
+# Dolphin (KDE)
+.directory
+
+# Output files
+*.mp3
